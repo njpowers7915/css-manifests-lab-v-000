@@ -2,7 +2,7 @@
 *= require pages
 *= require posts
 *= require admin
-*= hidden_styles
+*= require hidden_styles
 *= require jquery-addon
 *= require bootstrap-addon
 */
